@@ -1,0 +1,11 @@
+Raw lexer stdout:
+IDENTIFIER:a
+=
+NUMBER:10
+NEWLINE
+PRINT
+(
+IDENTIFIER:a
+)
+NEWLINE
+
